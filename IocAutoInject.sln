@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IocAutoInject", "IocAutoInject\IocAutoInject.csproj", "{73F0C7B9-B966-441A-87A2-B08607F1094B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F0C7B9-B966-441A-87A2-B08607F1094B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F0C7B9-B966-441A-87A2-B08607F1094B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F0C7B9-B966-441A-87A2-B08607F1094B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F0C7B9-B966-441A-87A2-B08607F1094B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8EC30B-F380-4C15-894A-3D954627B2A7}
+	EndGlobalSection
+EndGlobal
